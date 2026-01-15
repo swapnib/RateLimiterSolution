@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RateLimiterService.Tests/RateLimiterService.Tests.csproj" />
+  <Project Path="RateLimiterService/RateLimiterService.csproj" />
+</Solution>
